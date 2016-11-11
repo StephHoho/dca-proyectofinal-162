@@ -44,7 +44,7 @@ public class SaberBot extends EspecieAbstracta implements ICarnivoro{
 		ciclo = 0;
 		// PERSONAJE ASPECTO
 		PApplet app = Mundo.ObtenerInstancia().getApp();
-		//espalda del magobot
+		//espalda del saberbot
 		pjcarnivoro[0] = app.loadImage("DataTikiBots/saberbot/sA01.png");
 		pjcarnivoro[1] = app.loadImage("DataTikiBots/saberbot/sA02.png");
 		pjcarnivoro[2] = app.loadImage("DataTikiBots/saberbot/sA03.png");
